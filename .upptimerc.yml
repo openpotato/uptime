@@ -2,7 +2,7 @@ owner: openpotato
 repo: uptime
 
 sites:
-  - name: OpenPotato
+  - name: OpenHolidays API
     url: https://openholidaysapi.org/Countries
     method: GET
     headers:
