@@ -1,20 +1,20 @@
 [
   {
-    "name": "OpenHolidays API",
+    "name": "OpenPotato",
     "url": "https://openholidaysapi.org/Countries",
     "icon": "https://favicons.githubusercontent.com/openholidaysapi.org",
-    "slug": "open-holidays-api",
+    "slug": "open-potato",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 833,
-    "timeDay": 833,
-    "timeWeek": 833,
-    "timeMonth": 833,
-    "timeYear": 833,
+    "time": 572,
+    "timeDay": 572,
+    "timeWeek": 572,
+    "timeMonth": 572,
+    "timeYear": 572,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 697,
-    "timeWeek": 697,
-    "timeMonth": 697,
-    "timeYear": 697,
+    "time": 783,
+    "timeDay": 783,
+    "timeWeek": 783,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {}
   }
 ]
