@@ -14,7 +14,7 @@ sites:
 
 status-website:
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/openpotato/uptime/blob/master/assets/openpotato-icon.svg
   name: OpenPotato Uptime
   introTitle: "**OpenPotato** Uptime"
   introMessage: This status page monitors all OpenPotato projects for uptime.
