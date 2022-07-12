@@ -18,6 +18,7 @@ status-website:
   name: OpenPotato Uptime
   introTitle: "**OpenPotato** Uptime"
   introMessage: This status page monitors all OpenPotato projects for uptime.
+  faviconSvg: https://raw.githubusercontent.com/openpotato/uptime/master/assets/openpotato-icon.svg
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
