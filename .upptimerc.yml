@@ -15,7 +15,7 @@ sites:
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: OpenHolidays API Uptime
+  name: OpenPotato Uptime
   introTitle: "**OpenPotato** Uptime"
   introMessage: This status page monitors all OpenPotato projects for uptime.
   navbar:
