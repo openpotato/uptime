@@ -4,7 +4,7 @@ repo: uptime
 sites:
   - name: OpenHolidays API
     url: https://openholidaysapi.org/Countries
-    icon: https://openholidaysapi.org/favicon.ico
+    icon: https://openholidaysapi.org/swagger/favicon-32x32.png
     method: GET
     headers:
       - "Content-Type: application/json"
@@ -12,7 +12,7 @@ sites:
       - 200
   - name: OpenHolidays API Website
     url: https://www.openholidaysapi.org/de
-    icon: https://openholidaysapi.org/swagger/favicon-32x32.png
+    icon: https://www.openholidaysapi.org/de/assets/logos/favicon.ico
 
 status-website:
   baseUrl: /uptime
