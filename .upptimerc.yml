@@ -13,6 +13,17 @@ sites:
   - name: OpenHolidays API Website
     url: https://www.openholidaysapi.org/de
     icon: https://www.openholidaysapi.org/de/assets/logos/favicon.ico
+  - name: OpenPLZ API
+    url: https://openplzapi.org/de/FederalStates
+    icon: https://openplzapi.org/swagger/favicon-32x32.png
+    method: GET
+    headers:
+      - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
+  - name: OpenPLZ API Website
+    url: https://www.openplzapi.org/de
+    icon: https://www.openplzapi.org/de/assets/logos/favicon.ico
 
 status-website:
   baseUrl: /uptime
