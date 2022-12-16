@@ -5,18 +5,19 @@
     "icon": "https://openholidaysapi.org/swagger/favicon-32x32.png",
     "slug": "open-holidays-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 1128,
-    "timeDay": 556,
-    "timeWeek": 1192,
-    "timeMonth": 1320,
-    "timeYear": 1128,
+    "uptime": "99.60%",
+    "uptimeDay": "64.22%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.60%",
+    "time": 1123,
+    "timeDay": 596,
+    "timeWeek": 1197,
+    "timeMonth": 1317,
+    "timeYear": 1123,
     "dailyMinutesDown": {
-      "2022-12-15": 26
+      "2022-12-16": 83,
+      "2022-12-15": 432
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 832,
-    "timeDay": 825,
-    "timeWeek": 876,
-    "timeMonth": 855,
-    "timeYear": 832,
+    "time": 830,
+    "timeDay": 593,
+    "timeWeek": 855,
+    "timeMonth": 853,
+    "timeYear": 830,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 571,
-    "timeWeek": 571,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "time": 560,
+    "timeDay": 538,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 1021,
-    "timeWeek": 1021,
-    "timeMonth": 1021,
-    "timeYear": 1021,
+    "time": 878,
+    "timeDay": 594,
+    "timeWeek": 878,
+    "timeMonth": 878,
+    "timeYear": 878,
     "dailyMinutesDown": {}
   }
 ]
