@@ -4,19 +4,19 @@
     "url": "https://openholidaysapi.org/Countries",
     "icon": "https://openholidaysapi.org/swagger/favicon-32x32.png",
     "slug": "open-holidays-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1193,
-    "timeDay": 624,
-    "timeWeek": 1515,
-    "timeMonth": 1373,
-    "timeYear": 1193,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 1218,
+    "timeDay": 2613,
+    "timeWeek": 1901,
+    "timeMonth": 1474,
+    "timeYear": 1218,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 42
     }
   },
   {
