@@ -4,19 +4,19 @@
     "url": "https://openholidaysapi.org/Countries",
     "icon": "https://openholidaysapi.org/swagger/favicon-32x32.png",
     "slug": "open-holidays-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1339,
-    "timeDay": 597,
-    "timeWeek": 1058,
-    "timeMonth": 1954,
-    "timeYear": 1339,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
+    "time": 1335,
+    "timeDay": 547,
+    "timeWeek": 988,
+    "timeMonth": 1909,
+    "timeYear": 1335,
     "dailyMinutesDown": {
-      "2023-04-05": 0
+      "2023-04-05": 59
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.openholidaysapi.org/de",
     "icon": "https://www.openholidaysapi.org/de/assets/logos/favicon.ico",
     "slug": "open-holidays-api-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 799,
-    "timeWeek": 880,
-    "timeMonth": 873,
-    "timeYear": 835,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
+    "time": 836,
+    "timeDay": 873,
+    "timeWeek": 888,
+    "timeMonth": 875,
+    "timeYear": 836,
     "dailyMinutesDown": {
-      "2023-04-05": 0
+      "2023-04-05": 59
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://openplzapi.org/de/FederalStates",
     "icon": "https://openplzapi.org/swagger/favicon-32x32.png",
     "slug": "open-plz-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1561,
-    "timeDay": 786,
-    "timeWeek": 1325,
-    "timeMonth": 1236,
-    "timeYear": 1561,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.96%",
+    "time": 1574,
+    "timeDay": 1949,
+    "timeWeek": 1549,
+    "timeMonth": 1295,
+    "timeYear": 1574,
     "dailyMinutesDown": {
-      "2023-04-05": 0
+      "2023-04-05": 59
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://www.openplzapi.org/de",
     "icon": "https://www.openplzapi.org/de/assets/logos/favicon.ico",
     "slug": "open-plz-api-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 843,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.96%",
+    "time": 839,
+    "timeDay": 869,
     "timeWeek": 898,
-    "timeMonth": 858,
-    "timeYear": 838,
+    "timeMonth": 860,
+    "timeYear": 839,
     "dailyMinutesDown": {
-      "2023-04-05": 0
+      "2023-04-05": 59
     }
   }
 ]
