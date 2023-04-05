@@ -4,9 +4,9 @@
     "url": "https://openholidaysapi.org/Countries",
     "icon": "https://openholidaysapi.org/swagger/favicon-32x32.png",
     "slug": "open-holidays-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1058,
     "timeMonth": 1954,
     "timeYear": 1339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-05": 0
+    }
   },
   {
     "name": "OpenHolidays API Website",
     "url": "https://www.openholidaysapi.org/de",
     "icon": "https://www.openholidaysapi.org/de/assets/logos/favicon.ico",
     "slug": "open-holidays-api-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 880,
     "timeMonth": 873,
     "timeYear": 835,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-05": 0
+    }
   },
   {
     "name": "OpenPLZ API",
     "url": "https://openplzapi.org/de/FederalStates",
     "icon": "https://openplzapi.org/swagger/favicon-32x32.png",
     "slug": "open-plz-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 1325,
     "timeMonth": 1236,
     "timeYear": 1561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-05": 0
+    }
   },
   {
     "name": "OpenPLZ API Website",
     "url": "https://www.openplzapi.org/de",
     "icon": "https://www.openplzapi.org/de/assets/logos/favicon.ico",
     "slug": "open-plz-api-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 898,
     "timeMonth": 858,
     "timeYear": 838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-05": 0
+    }
   }
 ]
