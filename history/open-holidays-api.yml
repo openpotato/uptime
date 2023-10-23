@@ -1,7 +1,7 @@
 url: https://openholidaysapi.org/Countries
-status: up
-code: 200
-responseTime: 637
-lastUpdated: 2023-10-22T23:02:49.891Z
+status: down
+code: 503
+responseTime: 660
+lastUpdated: 2023-10-23T22:12:55.056Z
 startTime: 2022-09-17T11:18:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
