@@ -4,10 +4,10 @@
     "url": "https://openholidaysapi.org/Countries",
     "icon": "https://openholidaysapi.org/swagger/favicon-32x32.png",
     "slug": "open-holidays-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.62%",
     "time": 974,
@@ -16,6 +16,7 @@
     "timeMonth": 657,
     "timeYear": 924,
     "dailyMinutesDown": {
+      "2023-12-26": 2,
       "2023-12-21": 79,
       "2023-11-24": 868,
       "2023-11-23": 942,
@@ -29,10 +30,10 @@
     "url": "https://www.openholidaysapi.org/de",
     "icon": "https://www.openholidaysapi.org/de/assets/logos/favicon.ico",
     "slug": "open-holidays-api-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 847,
@@ -40,17 +41,19 @@
     "timeWeek": 868,
     "timeMonth": 865,
     "timeYear": 854,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-26": 1
+    }
   },
   {
     "name": "OpenPLZ API",
     "url": "https://openplzapi.org/de/FederalStates",
     "icon": "https://openplzapi.org/swagger/favicon-32x32.png",
     "slug": "open-plz-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1062,
@@ -59,6 +62,7 @@
     "timeMonth": 644,
     "timeYear": 1033,
     "dailyMinutesDown": {
+      "2023-12-26": 1,
       "2023-11-24": 20
     }
   },
@@ -67,9 +71,9 @@
     "url": "https://www.openplzapi.org/de",
     "icon": "https://www.openplzapi.org/de/assets/logos/favicon.ico",
     "slug": "open-plz-api-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -78,6 +82,8 @@
     "timeWeek": 919,
     "timeMonth": 874,
     "timeYear": 845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-26": 0
+    }
   }
 ]
