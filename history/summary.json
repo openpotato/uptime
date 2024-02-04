@@ -4,11 +4,11 @@
     "url": "https://openholidaysapi.org/Countries",
     "icon": "https://openholidaysapi.org/swagger/favicon-32x32.png",
     "slug": "open-holidays-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.58%",
     "time": 942,
     "timeDay": 517,
@@ -16,6 +16,7 @@
     "timeMonth": 637,
     "timeYear": 816,
     "dailyMinutesDown": {
+      "2024-02-04": 2,
       "2024-02-01": 22,
       "2024-01-13": 31,
       "2023-12-26": 181,
@@ -32,10 +33,10 @@
     "url": "https://www.openholidaysapi.org/de",
     "icon": "https://www.openholidaysapi.org/de/assets/logos/favicon.ico",
     "slug": "open-holidays-api-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 861,
@@ -44,6 +45,7 @@
     "timeMonth": 1066,
     "timeYear": 873,
     "dailyMinutesDown": {
+      "2024-02-04": 1,
       "2024-01-13": 31,
       "2023-12-26": 180
     }
@@ -53,10 +55,10 @@
     "url": "https://openplzapi.org/de/FederalStates",
     "icon": "https://openplzapi.org/swagger/favicon-32x32.png",
     "slug": "open-plz-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 1019,
@@ -65,6 +67,7 @@
     "timeMonth": 670,
     "timeYear": 889,
     "dailyMinutesDown": {
+      "2024-02-04": 1,
       "2024-01-13": 30,
       "2023-12-26": 180,
       "2023-11-24": 20
@@ -75,9 +78,9 @@
     "url": "https://www.openplzapi.org/de",
     "icon": "https://www.openplzapi.org/de/assets/logos/favicon.ico",
     "slug": "open-plz-api-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
@@ -87,6 +90,7 @@
     "timeMonth": 819,
     "timeYear": 839,
     "dailyMinutesDown": {
+      "2024-02-04": 0,
       "2024-01-13": 30,
       "2023-12-26": 179
     }
