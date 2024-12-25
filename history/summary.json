@@ -5,18 +5,19 @@
     "icon": "https://openholidaysapi.org/swagger/favicon-32x32.png",
     "slug": "open-holidays-api",
     "status": "down",
-    "uptime": "99.15%",
+    "uptime": "99.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "47.03%",
-    "uptimeMonth": "87.70%",
-    "uptimeYear": "98.44%",
+    "uptimeWeek": "32.76%",
+    "uptimeMonth": "84.41%",
+    "uptimeYear": "98.16%",
     "time": 628,
-    "timeDay": 529,
-    "timeWeek": 552,
-    "timeMonth": 572,
+    "timeDay": 628,
+    "timeWeek": 565,
+    "timeMonth": 576,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2024-12-24": 83,
+      "2024-12-25": 82,
+      "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -39,8 +40,7 @@
       "2024-02-05": 64,
       "2024-02-04": 107,
       "2024-02-01": 22,
-      "2024-01-13": 31,
-      "2023-12-26": 181
+      "2024-01-13": 31
     }
   },
   {
@@ -55,18 +55,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 865,
-    "timeDay": 699,
-    "timeWeek": 850,
-    "timeMonth": 846,
-    "timeYear": 870,
+    "timeDay": 817,
+    "timeWeek": 866,
+    "timeMonth": 848,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2024-05-01": 696,
       "2024-04-30": 1374,
       "2024-04-17": 35,
       "2024-02-05": 64,
       "2024-02-04": 106,
-      "2024-01-13": 31,
-      "2023-12-26": 180
+      "2024-01-13": 31
     }
   },
   {
@@ -80,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.50%",
-    "time": 663,
-    "timeDay": 530,
-    "timeWeek": 610,
-    "timeMonth": 596,
-    "timeYear": 648,
+    "time": 662,
+    "timeDay": 705,
+    "timeWeek": 620,
+    "timeMonth": 602,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2024-11-25": 34,
       "2024-10-02": 47,
@@ -95,8 +94,7 @@
       "2024-04-17": 35,
       "2024-02-05": 64,
       "2024-02-04": 106,
-      "2024-01-13": 30,
-      "2023-12-26": 180
+      "2024-01-13": 30
     }
   },
   {
@@ -111,18 +109,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 845,
-    "timeDay": 855,
-    "timeWeek": 879,
-    "timeMonth": 835,
-    "timeYear": 844,
+    "timeDay": 766,
+    "timeWeek": 870,
+    "timeMonth": 840,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2024-05-01": 697,
       "2024-04-30": 1373,
       "2024-04-17": 35,
       "2024-02-05": 64,
       "2024-02-04": 105,
-      "2024-01-13": 30,
-      "2023-12-26": 179
+      "2024-01-13": 30
     }
   }
 ]
