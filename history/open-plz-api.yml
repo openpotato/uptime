@@ -1,7 +1,7 @@
 url: https://openplzapi.org/de/FederalStates
-status: up
-code: 200
-responseTime: 526
-lastUpdated: 2025-02-20T23:08:14.965Z
+status: down
+code: 502
+responseTime: 521
+lastUpdated: 2025-02-21T14:16:08.324Z
 startTime: 2022-12-14T18:27:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
