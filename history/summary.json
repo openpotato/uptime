@@ -5,16 +5,16 @@
     "icon": "https://openholidaysapi.org/swagger/favicon-32x32.png",
     "slug": "open-holidays-api",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.24%",
     "time": 594,
-    "timeDay": 701,
-    "timeWeek": 591,
-    "timeMonth": 588,
-    "timeYear": 581,
+    "timeDay": 529,
+    "timeWeek": 583,
+    "timeMonth": 584,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2025-06-30": 62,
       "2025-02-21": 63,
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 833,
-    "timeDay": 949,
+    "timeDay": 743,
     "timeWeek": 815,
     "timeMonth": 820,
-    "timeYear": 821,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2025-02-21": 63
     }
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 608,
-    "timeDay": 634,
-    "timeWeek": 563,
-    "timeMonth": 583,
-    "timeYear": 579,
+    "timeDay": 551,
+    "timeWeek": 565,
+    "timeMonth": 584,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2025-02-21": 63,
       "2024-11-25": 34,
@@ -90,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 831,
-    "timeDay": 962,
-    "timeWeek": 804,
+    "timeDay": 743,
+    "timeWeek": 785,
     "timeMonth": 815,
-    "timeYear": 814,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2025-02-21": 63
     }
