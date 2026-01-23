@@ -6,14 +6,14 @@
     "slug": "open-holidays-api",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "96.16%",
+    "uptimeDay": "96.24%",
     "uptimeWeek": "98.12%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.91%",
     "time": 612,
-    "timeDay": 697,
-    "timeWeek": 668,
-    "timeMonth": 743,
+    "timeDay": 526,
+    "timeWeek": 635,
+    "timeMonth": 733,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2026-01-22": 54,
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 851,
-    "timeDay": 1372,
-    "timeWeek": 914,
-    "timeMonth": 1012,
-    "timeYear": 862,
+    "time": 850,
+    "timeDay": 535,
+    "timeWeek": 882,
+    "timeMonth": 1009,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2025-02-21": 63
     }
@@ -62,9 +62,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 600,
-    "timeDay": 782,
-    "timeWeek": 657,
-    "timeMonth": 693,
+    "timeDay": 534,
+    "timeWeek": 648,
+    "timeMonth": 692,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2025-12-28": 19,
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 839,
-    "timeDay": 886,
-    "timeWeek": 935,
-    "timeMonth": 961,
-    "timeYear": 849,
+    "timeDay": 931,
+    "timeWeek": 917,
+    "timeMonth": 970,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2025-02-21": 63
     }
