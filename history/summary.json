@@ -4,18 +4,19 @@
     "url": "https://openholidaysapi.org/Countries",
     "icon": "https://openholidaysapi.org/swagger/favicon-32x32.png",
     "slug": "open-holidays-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 616,
-    "timeDay": 543,
-    "timeWeek": 529,
-    "timeMonth": 602,
-    "timeYear": 629,
+    "time": 615,
+    "timeDay": 387,
+    "timeWeek": 507,
+    "timeMonth": 596,
+    "timeYear": 628,
     "dailyMinutesDown": {
+      "2026-03-13": 1,
       "2026-03-11": 23,
       "2025-06-30": 62
     }
@@ -25,18 +26,20 @@
     "url": "https://www.openholidaysapi.org/de",
     "icon": "https://www.openholidaysapi.org/de/assets/logos/favicon.ico",
     "slug": "open-holidays-api-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 890,
-    "timeWeek": 780,
-    "timeMonth": 830,
+    "time": 856,
+    "timeDay": 618,
+    "timeWeek": 749,
+    "timeMonth": 816,
     "timeYear": 869,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-13": 0
+    }
   },
   {
     "name": "OpenPLZ API",
@@ -50,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 613,
-    "timeDay": 543,
-    "timeWeek": 1254,
-    "timeMonth": 736,
+    "timeDay": 397,
+    "timeWeek": 1232,
+    "timeMonth": 735,
     "timeYear": 626,
     "dailyMinutesDown": {}
   },
@@ -68,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 846,
-    "timeDay": 859,
-    "timeWeek": 757,
-    "timeMonth": 839,
-    "timeYear": 858,
+    "timeDay": 623,
+    "timeWeek": 728,
+    "timeMonth": 827,
+    "timeYear": 857,
     "dailyMinutesDown": {}
   }
 ]
